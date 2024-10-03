@@ -1,0 +1,168 @@
+{
+    
+    "SSF1UK": { 
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5ZjEvaW5kZXgubTN1OA=="
+        }
+    },
+    "FS1": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfZnMxL2luZGV4Lm0zdTg="
+        }
+    },
+    "FS2": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfZnMyL2luZGV4Lm0zdTg="
+        }
+    },
+    "TNTSP1UK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfdG50MWdiL2luZGV4Lm0zdTg="
+        }
+    },
+    "TNTSP2UK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfdG50MmdiL2luZGV4Lm0zdTg="
+        }
+    },
+    "TNTSP3UK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfdG50M2diL2luZGV4Lm0zdTg="
+        }
+    },
+    "TNTSP4UK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfdG50NGdiL2luZGV4Lm0zdTg="
+        }
+    },
+    "TNTSP5UK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfdG50NWdiL2luZGV4Lm0zdTg="
+        }
+    },
+    "USANET": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfdXNhL2luZGV4Lm0zdTg="
+        }
+    },
+    "SSPLUK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5cGwvaW5kZXgubTN1OA=="
+        }
+    },
+    "ADS2": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9tYXplc3Bpbi5saXZlL2NoYW5uZWwvYWQyLm0zdTg="
+        }
+    },
+    "OFFLINE": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9tYXplc3Bpbi5saXZlL2NoYW5uZWwvb2ZmbGluZS9vZmZsaW5lLm0zdTg="
+        }
+    },
+    "ESPN": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9jb3JzLXByb3h5LmNvb2tzLmZ5aS9odHRwczovL2IudHJ5ZXJpbi5zaG9wL2VzcG4ubTN1OA=="
+        }
+    },
+    "ESPN2": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9jb3JzLmpkeDMub3JnL2h0dHBzOi8vYi50cnllcmluLnNob3AvZXNwbjIubTN1OA=="
+        }
+    },
+    "ESPNU": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9jb3JzLmpkeDMub3JnL2h0dHBzOi8vYi50cnllcmluLnNob3AvZXNwbnUubTN1OA=="
+        }
+    },
+    "ANC_PH": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9hbmNnbG9iYWwtYWJzY2JuLW9uby5hbWFnaS50di9wbGF5bGlzdC5tM3U4"
+        }
+    },
+    "SSMIXUK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5bWl4L2luZGV4Lm0zdTg="
+        }
+    },
+    "SSGOUK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5Z29sZi9pbmRleC5tM3U4"
+        }
+    },
+    "SSCRUK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5Y3JpY2tldC9pbmRleC5tM3U4"
+        }
+    },
+    "SSFOUK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5Zm9vdC9pbmRleC5tM3U4"
+        }
+    },
+    "SSARUK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5YXJlbmEvaW5kZXgubTN1OA=="
+        }
+    },
+    "SSACUK": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfc2t5YWN0aW9uL2luZGV4Lm0zdTg="
+        }
+    },
+    "PS1RI": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfcHJlbXNwMS9pbmRleC5tM3U4"
+        }
+    },
+    "PS2RI": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9lcGllLmpkeDMub3JnL2pkeDNfcHJlbXNwMi9pbmRleC5tM3U4"
+        }
+    },
+    "ADS1": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9tYXplc3Bpbi5saXZlL2NoYW5uZWwvYWQxLm0zdTg="
+        }
+    },
+    "BEIN1ID": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vaW5kb19iZWluX3Nwb3J0c18wMS9pbmRvX2JlaW5fc3BvcnRzXzAxLmlzbWwvcGxheWxpc3QubTN1OA=="
+        }
+    },
+    "BEIN1TH": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vdGhfYmVpbl9zcG9ydHNfMDEvdGhfYmVpbl9zcG9ydHNfMDEuaXNtbC9wbGF5bGlzdC5tM3U4"
+        }
+    },
+    "BEINSG": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vc2dfYmVpbl9zcG9ydHNfMDEvc2dfYmVpbl9zcG9ydHNfMDEuaXNtbC9wbGF5bGlzdC5tM3U4"
+        }
+    },
+    "BEIN3SG": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vaGtfc2dfYmVpbl9zcG9ydHNfMDMvaGtfc2dfYmVpbl9zcG9ydHNfMDMuaXNtbC9wbGF5bGlzdC5tM3U4"
+        }
+    },
+    "BEIN3ID": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vaW5kb19iZWluX3Nwb3J0c18wMy9pbmRvX2JlaW5fc3BvcnRzXzAzLmlzbWwvcGxheWxpc3QubTN1OA=="
+        }
+    },
+    "BEIN2SEA": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vc2VhX2JlaW5fc3BvcnRzXzAyL3NlYV9iZWluX3Nwb3J0c18wMi5pc21sL3BsYXlsaXN0Lm0zdTg="
+        }
+    },
+    "BEIN3MY": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vbXlfYmVpbl9zcG9ydHNfMDMvbXlfYmVpbl9zcG9ydHNfMDMuaXNtbC9wbGF5bGlzdC5tM3U4"
+        }
+    },
+    "BEINMY": {
+        "drm_info": {
+            "url": "aHR0cHM6Ly9iZWluLWFwYWMtdmlwLmFrYW1haXplZC5uZXQvdmlwL2JlaW4vbXlfYmVpbl9zcG9ydHNfMDEvbXlfYmVpbl9zcG9ydHNfMDEuaXNtbC9wbGF5bGlzdC5tM3U4"
+        }
+    }
+}

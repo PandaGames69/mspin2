@@ -1,0 +1,313 @@
+{
+    "BBCNEWS": {
+        "drm_info": {
+            "url": "https://192a.jdx3.org/https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCNEWS_2": {
+        "drm_info": {
+            "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    
+    "BBC4": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBC1CHANNELISLANDS": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1EAST": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1EASTMIDLANDS": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1EASTYORKSHIRE": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1LONDON": {
+        "drm_info": {
+            "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBC1LONDON_2": {
+        "drm_info": {
+            "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1NORTHEASTCUMBRIA": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1NORTHWEST": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1NORTHERNIRELAND": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1SCOTLAND": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1SOUTH": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1SOUTHEAST": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1SOUTHWEST": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1WALES": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1WEST": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1WESTMIDLANDS": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBC1YORKS": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBCRB1": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB2": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB3": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_03/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB4": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_04/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB5": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_05/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB6": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_06/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB7": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_07/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB8": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_08/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB9": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_09/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB10": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_10/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB11": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_11/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB12": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB13": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB14": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB15": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB16": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB17": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB18": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB19": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_19/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB20": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_20/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB21": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_21/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB22": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_22/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB23": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_23/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRB24": {
+        "drm_info": {
+            "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_24/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCRBONE": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCSCOTLAND": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCTHREE": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCTHREE_2": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCTWOENGLAND": {
+        "drm_info": {
+            "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCTWOENGLAND_2": {
+        "drm_info": {
+            "url": "https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd"
+        }
+    },
+    "BBCTWONORTHERNIRELAND": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCTWOWALES": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCUHD1": {
+        "drm_info": {
+            "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd"
+        }
+    },
+    "BBCUHD2": {
+        "drm_info": {
+            "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd"
+        }
+    },
+    "BBCUHD3": {
+        "drm_info": {
+            "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd"
+        }
+    },
+    "BBCUHD4": {
+        "drm_info": {
+            "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd"
+        }
+    },
+    "BBCUHD5": {
+        "drm_info": {
+            "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd"
+        }
+    },
+    "CBBC": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "CBEEBIES": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "CBEEBIES_2": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCPARLIAMENT": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd"
+        }
+    },
+    "BBCALBA": {
+        "drm_info": {
+            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd"
+        }
+    }
+}
